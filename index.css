@@ -62,3 +62,12 @@ h1 {
     top: 0;
     left: 0;
 }
+
+button {
+    border: none;
+    background-color: #cd5868;
+    color: whitesmoke;
+    font-weight: 700;
+    padding: 10px 15px;
+    cursor: pointer;
+}
