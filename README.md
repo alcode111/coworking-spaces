@@ -1,1 +1,1 @@
-# coworking-spaces
+This webpage is about coworking spaces for web devs all around the world. Styling it, we will learn a few basic but very useful CSS tricks (position: relative, absolute, fixed; margin auto on flex children, z-index).
